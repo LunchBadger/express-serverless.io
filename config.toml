@@ -1,0 +1,22 @@
+baseURL = "https://express-serverless.io"
+languageCode = "en-us"
+title = "Express Serverless Platform"
+theme = "learn"
+[outputs]
+home = [ "HTML", "RSS", "JSON" ]
+
+[params]
+custom_css = ["css/main.css", "css/bar.css"]
+themeVariant = "lb"
+description = "An open source, Kubernetes-native, microservices and serverless platform for developing, managing and deploying APIs insanely fast."
+author = "Al Tsang"
+
+[[menu.shortcuts]] 
+name = "<i class='fab fa-github'></i> Github repo"
+url = "https://github.com/LunchBadger/express-serverless.io"
+weight = 20
+
+[[menu.shortcuts]]
+name = "<i class='fab fa-osi'></i> Licensing"
+url = "https://www.lunchbadger.com"
+weight = 21

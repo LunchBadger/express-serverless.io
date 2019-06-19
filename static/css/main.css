@@ -1,0 +1,15 @@
+#logo img{
+    width: 100%;
+    background-color: red;
+    height: 300px;
+}
+
+body {
+    background: red !important;
+    color: #777;
+}
+
+
+html{
+   font-family:  ubuntu-regular, sans-serif
+}
