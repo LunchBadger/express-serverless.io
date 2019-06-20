@@ -12,11 +12,16 @@ description = "An open source, Kubernetes-native, microservices and serverless p
 author = "Al Tsang"
 
 [[menu.shortcuts]] 
-name = "<i class='fab fa-github'></i> Github repo"
-url = "https://github.com/LunchBadger/express-serverless.io"
+name = "<i class='fab fa-github'></i> ESP Frontend"
+url = "https://github.com/LunchBadger/lunchbadger-ui"
 weight = 20
+
+[[menu.shortcuts]] 
+name = "<i class='fab fa-github'></i> ESP Backend"
+url = "https://github.com/LunchBadger/helm-charts/tree/feature/akt-experimental-deploy"
+weight = 21
 
 [[menu.shortcuts]]
 name = "<i class='fab fa-osi'></i> Licensing"
 url = "https://www.lunchbadger.com"
-weight = 21
+weight = 22

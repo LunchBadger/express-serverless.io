@@ -253,8 +253,19 @@ is known for giving mysterious HTTP 401 errors with no further information</a>, 
   </h2>
   
   <p>
-    The combination of Express Serverless Platform and Express Gateway is a great alternative to Apigee for Node.js developers if you&#8217;re looking to leverage modern JavaScript. In particular, Apigee requires you to use a version of Node.js that&#8217;s been deprecated for several years at the time of this writing. Express Serverless Platform also allows you to simply write functions, rather than requiring you to build out a whole server application and then deploy it using an error-prone command line tool. Apigee is appealing if you want to deploy an existing Node.js application somewhere, or if you don&#8217;t want to use Node.js and just use their web GUI to configure your API Gateway. However, the latter approach suffers from vendor lock-in, because you can&#8217;t simply take your API Gateway from Apigee&#8217;s GUI and run it locally or on a different cloud provider. Express Serverless Platform&#8217;s GUI generates a git project for you, so you can clone your entire API Gateway stack, modify it in your preferred code editor, and run it locally or on your cloud provider of choice.
+    The combination of Express Serverless Platform and Express Gateway is a great alternative to Apigee for Node.js developers if you&#8217;re looking to leverage modern JavaScript. 
+	&nbsp;
+	In particular, Apigee requires you to use a version of Node.js that&#8217;s been deprecated for several years at the time of this writing. 
+	&nbsp;
+	Express Serverless Platform also allows you to simply write functions, rather than requiring you to build out a whole server application and then deploy it using an error-prone command line tool. Apigee is appealing if you want to deploy an existing Node.js application somewhere, or if you don&#8217;t want to use Node.js and just use their web GUI to configure your API Gateway. 
+	&nbsp;
+	However, the latter approach suffers from vendor lock-in, because you can&#8217;t simply take your API Gateway from Apigee&#8217;s GUI and run it locally or on a different cloud provider. 
+	&nbsp;
+	Express Serverless Platform&#8217;s GUI generates a git project for you, so you can clone your entire API Gateway stack, modify it in your preferred code editor, and run it locally or on your cloud provider of choice.
+	&nbsp;
+	
   </p>
+  We’ve done up a detailed comparison analysis on features, pricing and more between Express Serverless Platform and Apigee Edge, which is available for download from our <a href="/resources/comparison-guides/" target="_blank">Resources page.</a>
   
   <p>
     Additionally, if you&#8217;re interested in more of these topics, join the live discussion on twitter <strong><a href="http://www.twitter.com/lunchbadger">@lunchbadger</a></strong> or <strong><a href="https://twitter.com/express_gateway">@express_gateway.</a></strong>
