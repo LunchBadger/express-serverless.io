@@ -1,11 +1,12 @@
 ---
 title: ESP vs Google Cloud Functions
 author: Valeri Karpov
+description: A detailed getting started tutorial guide between Express Serverless Platform and Google Cloud Functions with examples by developers for developers.
 weight: 2
 type: post
 date: 2018-05-01T17:04:42+00:00
 url: /blog/hello-world-esp-vs-google-cloud-functions-example/
-featured_image: /wp-content/uploads/2018/05/Hello-World_-in-LunchBadger-vs-Google-Cloud-Functions-225x113.png
+image: /uploads/2018/05/Hello-World_-in-LunchBadger-vs-Google-Cloud-Functions.png
 um_content_restriction:
   - 'a:8:{s:26:"_um_custom_access_settings";s:1:"0";s:14:"_um_accessible";s:1:"0";s:19:"_um_noaccess_action";s:1:"0";s:30:"_um_restrict_by_custom_message";s:1:"0";s:27:"_um_restrict_custom_message";s:0:"";s:19:"_um_access_redirect";s:1:"0";s:23:"_um_access_redirect_url";s:0:"";s:28:"_um_access_hide_from_queries";s:1:"0";}'
 categories:

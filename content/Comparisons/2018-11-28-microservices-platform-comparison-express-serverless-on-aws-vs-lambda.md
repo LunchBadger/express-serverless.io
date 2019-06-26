@@ -1,12 +1,13 @@
 ---
 title: ESP vs AWS Lambda
 menuTitle: ESP vs AWS Lambda
+description: Find out the truth about using AWS Lambda and why resilient microservices platforms like Express Serverless Platform running on AWS is a better option for both developers and operations.
 weight: 1
 author: Al Tsang
 type: post
 date: 2018-11-29T01:08:42+00:00
 url: /blog/microservices-platform-comparison-express-serverless-on-aws-vs-lambda/
-featured_image: /wp-content/uploads/2018/11/Copy-of-Copy-of-API-Management-32F3-1-225x113.png
+image: /uploads/2018/11/Copy-of-Copy-of-API-Management-32F3-1.png
 um_content_restriction:
   - 'a:8:{s:26:"_um_custom_access_settings";s:1:"0";s:14:"_um_accessible";s:1:"0";s:19:"_um_noaccess_action";s:1:"0";s:30:"_um_restrict_by_custom_message";s:1:"0";s:27:"_um_restrict_custom_message";s:0:"";s:19:"_um_access_redirect";s:1:"0";s:23:"_um_access_redirect_url";s:0:"";s:28:"_um_access_hide_from_queries";s:1:"0";}'
 classic-editor-remember:
@@ -119,7 +120,7 @@ from our <a href="/resources/comparison-guides/" target="_blank">Resources page.
 
 &nbsp;<figure class="post-image">
 
-<img class="aligncenter size-full wp-image-6174" src="https://www.lunchbadger.com/wp-content/uploads/2018/12/ESPonAWS_diagram.png" alt="Express Serverless Platform on AWS"  /></figure> 
+<img class="aligncenter size-full wp-image-6174" src="/wp-content/uploads/2018/12/ESPonAWS_diagram.png" alt="Express Serverless Platform on AWS"  /></figure> 
 
 &nbsp;
 

@@ -1,12 +1,13 @@
 ---
 title: Building Serverless Based Functions
 menuTitle: Serverless Functions
+description: Auto deployment in a Kubernetes Runtime isn't a myth - it's the Express Serverless Platform. Build enterprise ready serverless functions now.
 weight: 1
 author: Al Tsang
 type: post
 date: 2018-08-07T02:50:41+00:00
 url: /blog/serverless-based-functions/
-featured_image: /wp-content/uploads/2018/08/Trial-1-225x113.png
+image: /uploads/2018/08/Trial-1.png
 um_content_restriction:
   - 'a:8:{s:26:"_um_custom_access_settings";s:1:"0";s:14:"_um_accessible";s:1:"0";s:19:"_um_noaccess_action";s:1:"0";s:30:"_um_restrict_by_custom_message";s:1:"0";s:27:"_um_restrict_custom_message";s:0:"";s:19:"_um_access_redirect";s:1:"0";s:23:"_um_access_redirect_url";s:0:"";s:28:"_um_access_hide_from_queries";s:1:"0";}'
 categories:

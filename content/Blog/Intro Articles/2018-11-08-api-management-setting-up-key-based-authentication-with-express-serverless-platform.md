@@ -1,12 +1,13 @@
 ---
 title: API Management - Setting Up Key-Based Authentication
 menuTitle: Key Based Authentication
+description: Learn how to set up key-based authentication and other API Management best practices with Express Serverless Platform with code snippets.
 author: Monojit Basu
 weight: 3
 type: post
 date: 2018-11-08T09:09:25+00:00
 url: /blog/api-management-setting-up-key-based-authentication-with-express-serverless-platform/
-featured_image: /wp-content/uploads/2018/11/3-225x113.png
+image: /uploads/2018/11/3.png
 um_content_restriction:
   - 'a:8:{s:26:"_um_custom_access_settings";s:1:"0";s:14:"_um_accessible";s:1:"0";s:19:"_um_noaccess_action";s:1:"0";s:30:"_um_restrict_by_custom_message";s:1:"0";s:27:"_um_restrict_custom_message";s:0:"";s:19:"_um_access_redirect";s:1:"0";s:23:"_um_access_redirect_url";s:0:"";s:28:"_um_access_hide_from_queries";s:1:"0";}'
 categories:
@@ -31,7 +32,7 @@ We&#8217;ve  discussed API Management and [setting up the Service and API End
 
 Here&#8217;s a quick diagram of what that looks like:<figure class="post-image">
 
-<img class="aligncenter size-full wp-image-5640" src="https://www.lunchbadger.com/wp-content/uploads/2018/10/Authorization-Graphics.png" alt="API Management in the Enterprise" width="600" height="300" srcset="https://www.lunchbadger.com/wp-content/uploads/2018/10/Authorization-Graphics.png 600w, https://www.lunchbadger.com/wp-content/uploads/2018/10/Authorization-Graphics-300x150.png 300w, https://www.lunchbadger.com/wp-content/uploads/2018/10/Authorization-Graphics-225x113.png 225w, https://www.lunchbadger.com/wp-content/uploads/2018/10/Authorization-Graphics-512x256.png 512w" sizes="(max-width: 600px) 100vw, 600px" /></figure> 
+<img class="aligncenter size-full wp-image-5640" src="/wp-content/uploads/2018/10/Authorization-Graphics.png" alt="API Management in the Enterprise" width="600" height="300" srcset="/wp-content/uploads/2018/10/Authorization-Graphics.png 600w, /wp-content/uploads/2018/10/Authorization-Graphics-300x150.png 300w, /wp-content/uploads/2018/10/Authorization-Graphics-225x113.png 225w, /wp-content/uploads/2018/10/Authorization-Graphics-512x256.png 512w" sizes="(max-width: 600px) 100vw, 600px" /></figure> 
 
 <span style="font-weight: 400;">How does all of this work together?  We&#8217;ve broken out a step-by-step guide on how to get started with setting up key-based authentication  with Express Serverless Platform including best practices on API Management along the way.</span>
 
@@ -44,11 +45,11 @@ Here&#8217;s a quick diagram of what that looks like:<figure class="post-image">
 
 Check it out:<figure class="post-image">
 
-<img class="aligncenter size-full wp-image-5750" src="https://www.lunchbadger.com/wp-content/uploads/2018/11/pasted-image-0-5.png" alt="Setting Up Authentication" width="631" height="313" srcset="https://www.lunchbadger.com/wp-content/uploads/2018/11/pasted-image-0-5.png 631w, https://www.lunchbadger.com/wp-content/uploads/2018/11/pasted-image-0-5-300x149.png 300w, https://www.lunchbadger.com/wp-content/uploads/2018/11/pasted-image-0-5-225x112.png 225w, https://www.lunchbadger.com/wp-content/uploads/2018/11/pasted-image-0-5-512x254.png 512w" sizes="(max-width: 631px) 100vw, 631px" /></figure> 
+<img class="aligncenter size-full wp-image-5750" src="/wp-content/uploads/2018/11/pasted-image-0-5.png" alt="Setting Up Authentication" width="631" height="313" srcset="/wp-content/uploads/2018/11/pasted-image-0-5.png 631w, /wp-content/uploads/2018/11/pasted-image-0-5-300x149.png 300w, /wp-content/uploads/2018/11/pasted-image-0-5-225x112.png 225w, /wp-content/uploads/2018/11/pasted-image-0-5-512x254.png 512w" sizes="(max-width: 631px) 100vw, 631px" /></figure> 
 
 &nbsp;<figure class="post-image">
 
-<img class="aligncenter size-full wp-image-5751" src="https://www.lunchbadger.com/wp-content/uploads/2018/11/pasted-image-0-5-copy.png" alt="Setting Up Authentication" width="628" height="324" srcset="https://www.lunchbadger.com/wp-content/uploads/2018/11/pasted-image-0-5-copy.png 628w, https://www.lunchbadger.com/wp-content/uploads/2018/11/pasted-image-0-5-copy-300x155.png 300w, https://www.lunchbadger.com/wp-content/uploads/2018/11/pasted-image-0-5-copy-225x116.png 225w, https://www.lunchbadger.com/wp-content/uploads/2018/11/pasted-image-0-5-copy-496x256.png 496w" sizes="(max-width: 628px) 100vw, 628px" /></figure> 
+<img class="aligncenter size-full wp-image-5751" src="/wp-content/uploads/2018/11/pasted-image-0-5-copy.png" alt="Setting Up Authentication" width="628" height="324" srcset="/wp-content/uploads/2018/11/pasted-image-0-5-copy.png 628w, /wp-content/uploads/2018/11/pasted-image-0-5-copy-300x155.png 300w, /wp-content/uploads/2018/11/pasted-image-0-5-copy-225x116.png 225w, /wp-content/uploads/2018/11/pasted-image-0-5-copy-496x256.png 496w" sizes="(max-width: 628px) 100vw, 628px" /></figure> 
 
 &nbsp;
 
@@ -58,7 +59,7 @@ Check it out:<figure class="post-image">
 
 &nbsp;<figure class="post-image">
 
-<img class="aligncenter size-full wp-image-5752" src="https://www.lunchbadger.com/wp-content/uploads/2018/11/pasted-image-0-1.png" alt="Setting Up Authentication" width="627" height="316" srcset="https://www.lunchbadger.com/wp-content/uploads/2018/11/pasted-image-0-1.png 627w, https://www.lunchbadger.com/wp-content/uploads/2018/11/pasted-image-0-1-300x151.png 300w, https://www.lunchbadger.com/wp-content/uploads/2018/11/pasted-image-0-1-225x113.png 225w, https://www.lunchbadger.com/wp-content/uploads/2018/11/pasted-image-0-1-508x256.png 508w" sizes="(max-width: 627px) 100vw, 627px" /></figure> 
+<img class="aligncenter size-full wp-image-5752" src="/wp-content/uploads/2018/11/pasted-image-0-1.png" alt="Setting Up Authentication" width="627" height="316" srcset="/wp-content/uploads/2018/11/pasted-image-0-1.png 627w, /wp-content/uploads/2018/11/pasted-image-0-1-300x151.png 300w, /wp-content/uploads/2018/11/pasted-image-0-1-225x113.png 225w, /wp-content/uploads/2018/11/pasted-image-0-1-508x256.png 508w" sizes="(max-width: 627px) 100vw, 627px" /></figure> 
 
 &nbsp;
 
@@ -72,7 +73,7 @@ Check it out:<figure class="post-image">
 
 &nbsp;<figure class="post-image">
 
-<img class="aligncenter size-full wp-image-5753" src="https://www.lunchbadger.com/wp-content/uploads/2018/11/pasted-image-0-2.png" alt="Setting Up Authentication" width="628" height="67" srcset="https://www.lunchbadger.com/wp-content/uploads/2018/11/pasted-image-0-2.png 628w, https://www.lunchbadger.com/wp-content/uploads/2018/11/pasted-image-0-2-300x32.png 300w, https://www.lunchbadger.com/wp-content/uploads/2018/11/pasted-image-0-2-225x24.png 225w, https://www.lunchbadger.com/wp-content/uploads/2018/11/pasted-image-0-2-512x55.png 512w" sizes="(max-width: 628px) 100vw, 628px" /></figure> 
+<img class="aligncenter size-full wp-image-5753" src="/wp-content/uploads/2018/11/pasted-image-0-2.png" alt="Setting Up Authentication" width="628" height="67" srcset="/wp-content/uploads/2018/11/pasted-image-0-2.png 628w, /wp-content/uploads/2018/11/pasted-image-0-2-300x32.png 300w, /wp-content/uploads/2018/11/pasted-image-0-2-225x24.png 225w, /wp-content/uploads/2018/11/pasted-image-0-2-512x55.png 512w" sizes="(max-width: 628px) 100vw, 628px" /></figure> 
 
 &nbsp;
 
@@ -84,13 +85,13 @@ Check it out:<figure class="post-image">
 
 &nbsp;<figure class="post-image">
 
-<img class="aligncenter size-full wp-image-5754" src="https://www.lunchbadger.com/wp-content/uploads/2018/11/pasted-image-0-5-copy-2.png" alt="Setting Up Authentication" width="628" height="111" srcset="https://www.lunchbadger.com/wp-content/uploads/2018/11/pasted-image-0-5-copy-2.png 628w, https://www.lunchbadger.com/wp-content/uploads/2018/11/pasted-image-0-5-copy-2-300x53.png 300w, https://www.lunchbadger.com/wp-content/uploads/2018/11/pasted-image-0-5-copy-2-225x40.png 225w, https://www.lunchbadger.com/wp-content/uploads/2018/11/pasted-image-0-5-copy-2-512x90.png 512w" sizes="(max-width: 628px) 100vw, 628px" /></figure> 
+<img class="aligncenter size-full wp-image-5754" src="/wp-content/uploads/2018/11/pasted-image-0-5-copy-2.png" alt="Setting Up Authentication" width="628" height="111" srcset="/wp-content/uploads/2018/11/pasted-image-0-5-copy-2.png 628w, /wp-content/uploads/2018/11/pasted-image-0-5-copy-2-300x53.png 300w, /wp-content/uploads/2018/11/pasted-image-0-5-copy-2-225x40.png 225w, /wp-content/uploads/2018/11/pasted-image-0-5-copy-2-512x90.png 512w" sizes="(max-width: 628px) 100vw, 628px" /></figure> 
 
 <span style="font-weight: 400;">User &#8216;alice&#8217; would also be able to access the API as shown below.</span>
 
 &nbsp;<figure class="post-image">
 
-<img class="aligncenter size-full wp-image-5755" src="https://www.lunchbadger.com/wp-content/uploads/2018/11/pasted-image-0-2-copy.png" alt="Setting Up Authentication" width="628" height="108" srcset="https://www.lunchbadger.com/wp-content/uploads/2018/11/pasted-image-0-2-copy.png 628w, https://www.lunchbadger.com/wp-content/uploads/2018/11/pasted-image-0-2-copy-300x52.png 300w, https://www.lunchbadger.com/wp-content/uploads/2018/11/pasted-image-0-2-copy-225x39.png 225w, https://www.lunchbadger.com/wp-content/uploads/2018/11/pasted-image-0-2-copy-512x88.png 512w" sizes="(max-width: 628px) 100vw, 628px" /></figure> 
+<img class="aligncenter size-full wp-image-5755" src="/wp-content/uploads/2018/11/pasted-image-0-2-copy.png" alt="Setting Up Authentication" width="628" height="108" srcset="/wp-content/uploads/2018/11/pasted-image-0-2-copy.png 628w, /wp-content/uploads/2018/11/pasted-image-0-2-copy-300x52.png 300w, /wp-content/uploads/2018/11/pasted-image-0-2-copy-225x39.png 225w, /wp-content/uploads/2018/11/pasted-image-0-2-copy-512x88.png 512w" sizes="(max-width: 628px) 100vw, 628px" /></figure> 
 
 &nbsp;
 
@@ -111,11 +112,7 @@ If you&#8217;re interested in more of these topics, join the live discussion on 
 
 
 
- [1]: https://www.lunchbadger.com/api-management-authentication-authorization-audit/
+
  [2]: /blog/get-started-api-management-express-serverless-platform/
  [3]: http://www.twitter.com/lunchbadger
  [4]: https://twitter.com/express_gateway
- [5]: https://www.lunchbadger.com/express-serverless-platform/?utm_source=content_mkt_apimgnt3&utm_medium=blog&utm_campaign=2018-08-trial-launch&utm_content=link
- [6]: https://www.lunchbadger.com/express-api-gateway-enterprise-support?utm_source=content_mkt_apimgnt&utm_medium=blog&utm_campaign=2018-08-trial-launch&utm_content=link
- [7]: https://www.lunchbadger.com/express-gateway-enterprise/?utm_source=content_mkt_apimgnt3&utm_medium=blog&utm_campaign=2018-08-trial-launch&utm_content=link
- [8]: http://eepurl.com/cSR5vT?utm_source=content_mkt_apimgnt3&utm_medium=blog&utm_campaign=2018-08-trial-launch&utm_content=link

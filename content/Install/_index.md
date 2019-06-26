@@ -1,6 +1,7 @@
 ---
 title: "Installation"
 menuTitle: Install
+description: Detailed installation instructions for both Express Serverless Platform frontend and backend
 chapter: false
 weight: 16
 date: 2018-05-21T18:23:50+03:00

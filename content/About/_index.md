@@ -1,7 +1,7 @@
 ---
 title: "About"
 chapter: false
-description: This is the about description.
+description: Express Serverless Platform is a MultiCloud Serverless Microservices Platform that provides a single pane of glass and cloud agnostic, portable canvas for building and deploying microservices.
 weight: 5
 date: 2018-05-18T15:18:39+03:00
 draft: false

@@ -23,5 +23,5 @@ weight = 21
 
 [[menu.shortcuts]]
 name = "<i class='fab fa-osi'></i> Licensing"
-url = "https://www.lunchbadger.com"
+url = "/license"
 weight = 22

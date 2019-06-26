@@ -1,12 +1,13 @@
 ---
 title: Hello World with Express Serverless Platform vs Apigee Edge
 menuTitle: ESP vs Apigee Edge
+description: Learn more about how Apigee Edge and Express Serverless Platform, two popular platforms, compare in this easy to follow getting started guide using real time examples, code snippets and more.
 weight: 5
 author: Valeri Karpov
 type: post
 date: 2018-03-15T13:00:05+00:00
 url: /blog/vs-apigee-features/
-featured_image: /wp-content/uploads/2018/03/4Multi-Cloud-Kubernetes-and-Our-New-Partnership-with-Joyent-225x113.png
+image: /uploads/2018/03/4Multi-Cloud-Kubernetes-and-Our-New-Partnership-with-Joyent.png
 categories:
   - Technology
 tags:

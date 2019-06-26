@@ -1,6 +1,6 @@
 ---
 title: "Open Source, Kubernetes-native, Microservices & Serverless Platform"
-desription: An open source, Kubernetes-native, Microservices & Serverless Platform
+desription: Express Serverless Platform is an open source, Kubernetes-native, Microservices & Serverless Platform.
 weight: 1
 date: 2018-05-18T15:16:56+03:00
 draft: false
