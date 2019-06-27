@@ -1,4 +1,4 @@
-baseURL = "https://express-serverless.io"
+baseURL = "https://www.express-serverless.io"
 languageCode = "en-us"
 title = "Express Serverless Platform"
 theme = "learn"
