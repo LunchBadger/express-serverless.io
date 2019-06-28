@@ -11,17 +11,3 @@ themeVariant = "lb"
 description = "An open source, Kubernetes-native, microservices and serverless platform for developing, managing and deploying APIs insanely fast."
 author = "Al Tsang"
 
-[[menu.shortcuts]] 
-name = "<i class='fab fa-github'></i> ESP Frontend"
-url = "https://github.com/LunchBadger/lunchbadger-ui"
-weight = 20
-
-[[menu.shortcuts]] 
-name = "<i class='fab fa-github'></i> ESP Backend"
-url = "https://github.com/LunchBadger/helm-charts/tree/feature/akt-experimental-deploy"
-weight = 21
-
-[[menu.shortcuts]]
-name = "<i class='fab fa-osi'></i> Licensing"
-url = "/license"
-weight = 22

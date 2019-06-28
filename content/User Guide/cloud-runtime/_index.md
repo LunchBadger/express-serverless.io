@@ -31,7 +31,7 @@ All your microservices built within Express Serverless Platform are automaticall
 
 ![Express Serverless Platform Canvas](/images/full_canvas.png)
 
-When you are in the `development` environmnent building and configuring your microservices via the [Canvas](/basics/canvas)
+When you are in the `development` environmnent building and configuring your microservices via the [Canvas](/user-guide/canvas)
 
 ![Kubernetes Pods](/images/kubernetes_pods.png)
 

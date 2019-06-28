@@ -10,6 +10,6 @@ draft: false
 
 ## Community Support
 
-Express Serverless Platform currently only comes with community support on Gitter.
+Express Serverless Platform currently only comes with support via issues logged on Github.
 
-You may access it <a href="https://gitter.im/ExpressGateway/express-gateway" target=_blank>here</a> or drop an email to support@lunchbadger.com for questions or contribution enquiries.
+Log in <a href="https://github.com/LunchBadger" target=_blank>here</a> 

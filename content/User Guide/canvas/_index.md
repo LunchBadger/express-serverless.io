@@ -42,7 +42,7 @@ Each Canvas is uniquely made up of a user, environment and project.
 The left most toolbar is called the Entity Palette.  Each icon in the palette represents a different entity that you can create.  The entity palette is divided up into different entity types.
 
 Some entities are used when you are developing your microservcies and integrating to existing data and application. Others are used when you want to expose microservices as APIs and secure them through an API gateway.
-More Details:  [Entity Palette](/basics/entity-palette)
+More Details:  [Entity Palette](/user-guide/entity-palette)
 
 ### Quadrants
 
@@ -67,7 +67,7 @@ Example: New Data to be stored in MongoDB
 > You are creating a new microservice that handles payments.  The microservices requires each payment performed to be recorded with transaction details as a JSON object. A MongoDB Connector can be created in the backend quadrant that represents the connection to new MongoDB instance that will store the new transaction data.
 
 #### Private
-The private quadrant represents all business functionality within your application.  This quadrant contains all [Models](/basics/entity-palette/models), [Service Endpoints](/basics/entity-palette/service-endpoints) and [Functions](/basics/entity-palette/functions) in your system. They are not exposed publically, but can communicate with each other. In Express Serverless Platform communication with external services is done through a [Gateway](/basics/entity-palette/gateways)
+The private quadrant represents all business functionality within your application.  This quadrant contains all [Models](/user-guide/entity-palette/models), [Service Endpoints](/user-guide/entity-palette/service-endpoints) and [Functions](/user-guide/entity-palette/functions) in your system. They are not exposed publically, but can communicate with each other. In Express Serverless Platform communication with external services is done through a [Gateway](/user-guide/entity-palette/gateways)
 
 Example: Legacy SOAP Service Leveraged by New Customer Model Microservice
 
@@ -82,14 +82,14 @@ Example: Barebone Service Endpoint Proxing an External Service
 > You want to surface a uniform API that powers a Yelp like application that shows all restaurants near your user.  The list of restaurants and their addresses are handled by a Restaurant model based microservice and the geolocation lookup is done by a 3rd party API - Google Maps.  A Service Endpoint can be created to point to the Google Maps URL to pass in geolocation coordinates to do a lookup calculation for distance between the user and each of the restaurants.
 
 #### Gateway
-The gateway quadrant is a dividing line between what is public facing and consumed by consumers through an API and what is private and managed by producers as a set of microservices connected to backend systems. The only entity created within this quadrant are gateways. [Gateway Entities](/basics/entity-palette/gateways) represent created and deployed instances of Express Gateway. These instances act as an API Gateway within your application. Gateways expose HTTP based API endpoints, provide policy based quality of services (like routing, authentication, authorization, rate-limiting etc.) and proxy in front of entities within the private quadrant.
+The gateway quadrant is a dividing line between what is public facing and consumed by consumers through an API and what is private and managed by producers as a set of microservices connected to backend systems. The only entity created within this quadrant are gateways. [Gateway Entities](/user-guide/entity-palette/gateways) represent created and deployed instances of Express Gateway. These instances act as an API Gateway within your application. Gateways expose HTTP based API endpoints, provide policy based quality of services (like routing, authentication, authorization, rate-limiting etc.) and proxy in front of entities within the private quadrant.
 
 Example:
 
 > You have a couple of Model based microservices that act as REST resources - cart, catalog, user. Each of these Models can be wired up to a Gateway entity in this quadrant and be exposed as REST API endpoint by the gateway. The Gateway in this quadrant can be configured with policies to proxy to these backend Models and secure them with authentication and authorization policies like key authorization.
 
 #### Public
-The public quadrant contains entities that are exposed and directly visible to any consumer of your application. Consumers can interact directly with these entities. The public quadrant contains [API Endpoint entities](/basics/entity-palette/api-endpoints) exposed by Gateways in the gateway quadrant. API Endpoints are HTTP based URLs that can be called directly by a client external to your application.
+The public quadrant contains entities that are exposed and directly visible to any consumer of your application. Consumers can interact directly with these entities. The public quadrant contains [API Endpoint entities](/user-guide/entity-palette/api-endpoints) exposed by Gateways in the gateway quadrant. API Endpoints are HTTP based URLs that can be called directly by a client external to your application.
 
 Example:
 

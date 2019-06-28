@@ -6,7 +6,7 @@ weight: 5
 author: Valeri Karpov
 type: post
 date: 2018-03-15T13:00:05+00:00
-url: /blog/vs-apigee-features/
+url: /resources/vs-apigee-features/
 image: /uploads/2018/03/4Multi-Cloud-Kubernetes-and-Our-New-Partnership-with-Joyent.png
 categories:
   - Technology
@@ -266,7 +266,7 @@ is known for giving mysterious HTTP 401 errors with no further information</a>, 
 	&nbsp;
 	
   </p>
-  We’ve done up a detailed comparison analysis on features, pricing and more between Express Serverless Platform and Apigee Edge, which is available for download from our <a href="/resources/comparison-guides/" target="_blank">Resources page.</a>
+  We’ve done up a detailed comparison analysis on features, pricing and more between Express Serverless Platform and Apigee Edge, which is available for download from our <a href="/resources/pdf-guides/" target="_blank">Resources page.</a>
   
   <p>
     Additionally, if you&#8217;re interested in more of these topics, join the live discussion on twitter <strong><a href="http://www.twitter.com/lunchbadger">@lunchbadger</a></strong> or <strong><a href="https://twitter.com/express_gateway">@express_gateway.</a></strong>
@@ -277,11 +277,11 @@ is known for giving mysterious HTTP 401 errors with no further information</a>, 
 &nbsp;
 &nbsp;
 
-{{% button href="https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fexpress-serverless.io%2Fblog%2Fvs-apigee-features%2F" icon="fab fa-facebook" %}}Share{{% /button %}}
+{{% button href="https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fexpress-serverless.io%2Fresources%2Fvs-apigee-features%2F" icon="fab fa-facebook" %}}Share{{% /button %}}
 
-{{% button href="https://twitter.com/intent/tweet/?text=ESP%20vs%20Apigee%20Edge&amp;url=https%3A%2F%2Fexpress-serverless.io%2Fblog%2Fvs-apigee-features%2F" icon="fab fa-twitter" %}}Tweet{{% /button %}}
+{{% button href="https://twitter.com/intent/tweet/?text=ESP%20vs%20Apigee%20Edge&amp;url=https%3A%2F%2Fexpress-serverless.io%2Fresources%2Fvs-apigee-features%2F" icon="fab fa-twitter" %}}Tweet{{% /button %}}
 
-{{% button href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fexpress-serverless.io%2Fblog%2Fvs-apigee-features%2F&amp;title=ESP%20vs%20Apigee%20Edge&amp;summary=ESP%20vs%20Apigee%20Edge&amp;source=https%3A%2F%2Fexpress-serverless.io%2Fblog%2Fvs-apigee-features%2F" icon="fab fa-linkedin" %}}Link{{% /button %}}
+{{% button href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fexpress-serverless.io%2Fresources%2Fvs-apigee-features%2F&amp;title=ESP%20vs%20Apigee%20Edge&amp;summary=ESP%20vs%20Apigee%20Edge&amp;source=https%3A%2F%2Fexpress-serverless.io%2Fresources%2Fvs-apigee-features%2F" icon="fab fa-linkedin" %}}Link{{% /button %}}
   
  
 

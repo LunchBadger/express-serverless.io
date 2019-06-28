@@ -30,13 +30,13 @@ tags:
   - Visualize APIs
 
 ---
-# Express Serverless Platform has arrived!
+## Express Serverless Platform has arrived!
 
 After three long months of hard work, we&#8217;re proud to announce that the LunchBadger Platform is now the Express Serverless Platform. New name, new features and an opportunity to experience a visual canvas ripe with all the important functionality that developers need, without the hype.
 
 &nbsp;
 
-<span style="font-size: 18pt;"><strong>TLDR:</strong> <a href="/install">Install ESP right over here</a></span>
+<span style="font-size: 18pt;"><strong>TLDR:</strong> <a href="/getting-started">Install ESP right over here</a></span>
 
 &nbsp;
 
@@ -102,11 +102,11 @@ Express Serverless Platform runs in your public cloud of choice and can take adv
 
 ## What Happens Next with Express Serverless Platform
 
-If you&#8217;re interested in giving Express Serverless Platform a try, head over to our install page. We&#8217;re looking for feedback and real world use cases that Express Serverless Platform could help solve. If you have an important business use case and you&#8217;re looking to leverage ESP, accessing the free trial gives you a guided walkthrough of how to set up your APIs and Microservices in minutes, not days. You&#8217;ll also get access to a 1:1 demo by a microservices expert. Let us know what you think!
+If you&#8217;re interested in giving Express Serverless Platform a try, head over to our <a href="/getting-started">install page</a>. We&#8217;re looking for feedback and real world use cases that Express Serverless Platform could help solve. Let us know what you think!
 
 &nbsp;
 
-### Next Post:
+
 
  [1]: https://www.lunchbadger.com/express-serverless-platform/?utm_source=blog_announcement&utm_medium=blog&utm_campaign=2018-08-trial-launch&utm_content=link
  [2]: http://docs.lunchbadger.com/basics/canvas/
