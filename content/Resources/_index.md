@@ -9,4 +9,4 @@ draft: false
 
 # Resources
 
-Download Express Serverless Platform's pdf guides on platform comparisons and use-cases here.
+Get detailed comparison analaysis between all the major serverless platforms togheter with downloadable pdf guides and use-cases here.

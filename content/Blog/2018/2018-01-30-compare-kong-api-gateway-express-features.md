@@ -83,7 +83,7 @@ So even if you think you&#8217;ve got it all locked and loaded, it never hurts t
 </div>
 
 <h1 style="text-align: center;">
-  <a href="/resources/comparison-guides/"  class="btn button center cta">Get The Deep Dive</a>
+  <a href="/resources/pdf-guides/"  class="btn button center cta">Get The Deep Dive</a>
 </h1>
 
 <div class="spaced" style="padding-top:15px; clear:both;" >
@@ -103,7 +103,7 @@ Additionally, if you&#8217;re interested in more of these topics, join the live 
 
  [1]: https://getkong.org/
  [2]: http://www.express-gateway.io?utm_source=Comparison_LP_Kong&utm_medium=blog&utm_campaign=2018-10-comparisons&utm_content=link
- [3]: /resources/comparison-guides/ 
+ [3]: /resources/pdf-guides/ 
  [4]: https://www.lunchbadger.com/enterprise/
  [5]: http://www.twitter.com/lunchbadger
  [6]: https://twitter.com/express_gateway

@@ -55,7 +55,7 @@ tags:
 
 _Let&#8217;s break it down:_<figure class="post-image">
 
-<img class="aligncenter wp-image-4847" src="/wp-content/uploads/2018/08/Container.png" alt="Overview of Kubernetes" width="755" height="378" srcset="/wp-content/uploads/2018/08/Container.png 1024w, /wp-content/uploads/2018/08/Container-300x150.png 300w, /wp-content/uploads/2018/08/Container-768x384.png 768w, /wp-content/uploads/2018/08/Container-225x113.png 225w, /wp-content/uploads/2018/08/Container-512x256.png 512w" sizes="(max-width: 755px) 100vw, 755px" /></figure> 
+<img class="aligncenter wp-image-4847" src="/wp-content/uploads/2018/08/Container.png" alt="Overview of Kubernetes" width="755" height="378" srcset="/wp-content/uploads/2018/08/Container.png 1024w, /wp-content/uploads/2018/08/Container.png 300w, /wp-content/uploads/2018/08/Container.png 768w, /wp-content/uploads/2018/08/Container.png 225w, /wp-content/uploads/2018/08/Container.png 512w" sizes="(max-width: 755px) 100vw, 755px" /></figure> 
 
 &nbsp;
 
@@ -82,7 +82,7 @@ _Let&#8217;s break it down:_<figure class="post-image">
 
 &nbsp;<figure class="post-image">
 
-<img class="aligncenter wp-image-4848" src="/wp-content/uploads/2018/08/Container-1.png" alt="Deployment infrastructure for event-driven microservices" width="693" height="347" srcset="/wp-content/uploads/2018/08/Container-1.png 1024w, /wp-content/uploads/2018/08/Container-1-300x150.png 300w, /wp-content/uploads/2018/08/Container-1-768x384.png 768w, /wp-content/uploads/2018/08/Container-1-225x113.png 225w, /wp-content/uploads/2018/08/Container-1-512x256.png 512w" sizes="(max-width: 693px) 100vw, 693px" /></figure> 
+<img class="aligncenter wp-image-4848" src="/wp-content/uploads/2018/08/Container-1.png" alt="Deployment infrastructure for event-driven microservices" width="693" height="347" srcset="/wp-content/uploads/2018/08/Container-1.png 1024w, /wp-content/uploads/2018/08/Container-1.png 300w, /wp-content/uploads/2018/08/Container-1.png 768w, /wp-content/uploads/2018/08/Container-1.png 225w, /wp-content/uploads/2018/08/Container-1.png 512w" sizes="(max-width: 693px) 100vw, 693px" /></figure> 
 
 <span style="font-weight: 400;">Microservices components &#8211; event-driven or otherwise, have to expose an interface for other components or the external world to access its services. This is where APIs have to be carefully defined, and an infrastructure for setting up and managing secure API endpoints has to be supported. </span><span style="font-weight: 400;">LunchBadger brings together a development platform for microservices &#8211; both synchronous and event-driven (serverless) &#8211; with an API management framework, with end-to-end development and deployment support.  </span>
 
@@ -92,7 +92,7 @@ Over the next few posts, we&#8217;ll cover tactical examples, guides and walk th
 
 &nbsp;
 
-**Next Post:**
+
 
  [1]: https://www.martinfowler.com/articles/microservices.html
  [2]: https://kubernetes.io/

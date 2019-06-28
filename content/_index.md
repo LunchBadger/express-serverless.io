@@ -18,4 +18,4 @@ With ESP it's easy to...
  * build and deploy your microservices into the cloud in real time
  * expose your microservices as APIs consumable by other applications or clients internally or externally
 
-If you haven't already - please check out the [Getting Started](/basics/canvas) guide.
+If you haven't already - please check out the [User Guide](/user-guide/canvas) to get started.

@@ -32,4 +32,4 @@ Node.js Example:
 
 > `package.json` contains node.js package dependencies. Express Serverless Platform will install them during function launch.
 
- All Serverless Function code is stored in its own git repository. See [Git Access](/basics/git-access) for details.
+ All Serverless Function code is stored in its own git repository. See [Git Access](/user-guide/git-access) for details.

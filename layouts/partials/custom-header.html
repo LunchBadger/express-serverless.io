@@ -11,7 +11,7 @@
 	<!-- Open Graph Protocol http://ogp.me/ -->
 	<meta property="og:locale" content="en_US">
 	<meta property="og:title" content="{{ if .Title }}{{ .Title }} | {{ end }}{{ .Site.Title }}">
-	<meta property="og:image" content="{{ if .Params.image }}{{.Site.BaseURL}}wp-content{{.Params.image}}{{ else }}{{.Site.BaseURL}}/images/site-logo.png{{ end }}">
+	<meta property="og:image" content="{{ if .Params.image }}{{.Site.BaseURL}}/wp-content{{.Params.image}}{{ else }}{{.Site.BaseURL}}/images/site-logo.png{{ end }}">
 	<meta property="og:description" content="{{ with .Description }}{{ . }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}">
 	<meta property="og:site_name" content="{{ .Site.Title }}">
 	<!-- Preconnect API. For browser compatibility, check http://caniuse.com/#feat=link-rel-preconnect -->

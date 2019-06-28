@@ -154,14 +154,14 @@ If you&#8217;re interested in more of these topics, join the live discussion on 
 <div class="spaced" style="padding-top:15px; clear:both;" >
 </div>
 
-### Next Post
+
 
  [1]: http://www.express-gateway.io?utm_source=content_mkt_apimgnt&utm_medium=blog&utm_campaign=2018-08-trial-launch&utm_content=link
  [2]: https://en.wikipedia.org/wiki/Coordinated_Universal_Time
  [3]: http://worldclockapi.com/api/json/utc/now
  [4]: http://www.twitter.com/lunchbadger
  [5]: https://twitter.com/express_gateway
- [6]: /install
+ [6]: /getting-started/
  [7]: https://www.lunchbadger.com/express-api-gateway-enterprise-support?utm_source=content_mkt_apimgnt&utm_medium=blog&utm_campaign=2018-08-trial-launch&utm_content=link
  [8]: https://www.lunchbadger.com/express-gateway-enterprise/?utm_source=content_mkt_apimgnt&utm_medium=blog&utm_campaign=2018-08-trial-launch&utm_content=link
  [9]: http://eepurl.com/cSR5vT?utm_source=content_mkt_apimgnt&utm_medium=blog&utm_campaign=2018-08-trial-launch&utm_content=link

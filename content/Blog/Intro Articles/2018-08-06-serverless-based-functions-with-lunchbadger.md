@@ -76,7 +76,7 @@ tags:
 
 &nbsp;
 
-<span style="font-weight: 400;">Once you're done with the <a href=/install>installation</a>, hit us up in chat or social media and share your use cases, or ask and get answers to tough questions about APIs or Microservices. So, now’s the time to get onboard and help shape the future of Express Serverless Platform!</span>
+<span style="font-weight: 400;">Once you're done with the <a href=/getting-started/>installation</a>, hit us up in chat or social media and share your use cases, or ask and get answers to tough questions about APIs or Microservices. So, now’s the time to get onboard and help shape the future of Express Serverless Platform!</span>
 
 Additionally, if you&#8217;re interested in more of these topics, join the live discussion on twitter **[@lunchbadger][2]** or **[@express_gateway][3]**
 

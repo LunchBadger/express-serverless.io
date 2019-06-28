@@ -37,7 +37,7 @@ Getting your application into the cloud as a container is already hard enough.  
 Express Serverless Platform containerizes your application for you.  It deploys an image to Kubernetes by creating the deployment and other complicated [YAML documents](https://github.com/kubernetes/examples/blob/master/guestbook/all-in-one/guestbook-all-in-one.yaml) for you and calls its [API](https://kubernetes.io/docs/concepts/overview/kubernetes-api/) rather than fumbling around with dozens of laborious [kubectl commands](https://kubernetes.io/docs/reference/kubectl/overview/).
 
 ## How does Express Serverless Platform Work?
-Express Serverless Platform is driven by a GUI known as the [Canvas](/basics/canvas). The Canvas guides user in the process of building, deploying, and managing microservices and exposing them as APIs.
+Express Serverless Platform is driven by a GUI known as the [Canvas](/user-guide/canvas). The Canvas guides user in the process of building, deploying, and managing microservices and exposing them as APIs.
 
 Express Serverless Platform utilizes the best of breed open source projects for easy adoption, constant innovation and specialization of what each component brings to putting together a holistic microservices platform.
 
@@ -56,4 +56,4 @@ Express Serverless Platform is built around another open source project, known a
 If you’d like to learn more, please checkout the [Express Gateway website](https://www.express-gateway.io) and the [Github repository](https://github.com/expressgateway/express-gateway) or you can join the [Express Gateway Community](https://gitter.im/ExpressGateway/express-gateway) on Gitter.
 
 ## Need Support?
-Now that you're armed with the basics of how to use Express Serverless Platform, have fun!  Feel free to play around with Entities on the Canvas and direct any questions to the Team via an email at [support@lunchbadger.com](mailto:support@lunchbadger.com).
+Now that you're armed with the basics of how to use Express Serverless Platform, have fun!  Feel free to play around with Entities on the Canvas and direct any questions to the Team via a [git issue](https://github.com/LunchBadger)

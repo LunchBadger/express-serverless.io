@@ -77,5 +77,5 @@ Additionally, if you&#8217;re interested in more of these topics, join the live 
  [6]: http://www.twitter.com/lunchbadger
  [7]: https://twitter.com/express_gateway
  [8]: http://eepurl.com/cSR5vT
- [9]: /install
+ [9]: /getting-started/
  [10]: https://www.prnewswire.com/news-releases/lunchbadger-teams-with-joyent-to-tap-growth-in-serverless-multi-cloud-market-300573014.html
