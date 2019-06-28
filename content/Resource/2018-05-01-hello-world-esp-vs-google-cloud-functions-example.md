@@ -5,7 +5,7 @@ description: A detailed getting started tutorial guide between Express Serverles
 weight: 2
 type: post
 date: 2018-05-01T17:04:42+00:00
-url: /resources/hello-world-esp-vs-google-cloud-functions-example/
+url: /resource/hello-world-esp-vs-google-cloud-functions-example/
 image: /uploads/2018/05/Hello-World_-in-LunchBadger-vs-Google-Cloud-Functions.png
 um_content_restriction:
   - 'a:8:{s:26:"_um_custom_access_settings";s:1:"0";s:14:"_um_accessible";s:1:"0";s:19:"_um_noaccess_action";s:1:"0";s:30:"_um_restrict_by_custom_message";s:1:"0";s:27:"_um_restrict_custom_message";s:0:"";s:19:"_um_access_redirect";s:1:"0";s:23:"_um_access_redirect_url";s:0:"";s:28:"_um_access_hide_from_queries";s:1:"0";}'
@@ -171,11 +171,11 @@ On the other hand, Express Serverless Platform scaffolds out an app for you and 
 
 Google Cloud is appealing because Google is a well-established company with a proven track record of running sophisticated developer tools at massive scale. But using Google Cloud Functions means you must run your code on Google Cloud and manage your API using <a href="https://cloud.google.com/endpoints/" target="_blank" rel="noopener noreferrer">Google Cloud Endpoints</a>.
 
-Furthermore, Google Cloud Functions have slightly different syntax than <a href="/resources/get-started-azure-functions-vs-express-serverless-platform-tutorial/" target="_blank">Azure Functions</a> or <a href="/resources/hello-world-esp-vs-ibm-cloud-functions-example/" target="_blank">IBM Cloud</a>, so switching cloud function providers requires significant refactoring.
+Furthermore, Google Cloud Functions have slightly different syntax than <a href="/resource/get-started-azure-functions-vs-express-serverless-platform-tutorial/" target="_blank">Azure Functions</a> or <a href="/resource/hello-world-esp-vs-ibm-cloud-functions-example/" target="_blank">IBM Cloud</a>, so switching cloud function providers requires significant refactoring.
 
 &nbsp;
 
-We&#8217;ve done up a detailed comparison analysis on features, pricing and more between Express Serverless Platform running on GCP compared to Google Cloud Functions, which you may download from our <a href="/resources/pdf-guides/" target="_blank">Resources page.</a>
+We&#8217;ve done up a detailed comparison analysis on features, pricing and more between Express Serverless Platform running on GCP compared to Google Cloud Functions, which you may download from our <a href="/resource/pdf-guides/" target="_blank">Resources page.</a>
 
 
 &nbsp;
@@ -185,11 +185,11 @@ Additionally, if you&#8217;re interested in more of these topics, join the live 
 &nbsp;
 &nbsp;
 
-{{% button href="https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fexpress-serverless.io%2Fresources%2Fhello-world-esp-vs-google-cloud-functions-example%2F" icon="fab fa-facebook" %}}Share{{% /button %}}
+{{% button href="https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fexpress-serverless.io%2Fresource%2Fhello-world-esp-vs-google-cloud-functions-example%2F" icon="fab fa-facebook" %}}Share{{% /button %}}
 
-{{% button href="https://twitter.com/intent/tweet/?text=ESP%20vs%20Google%20Cloud%20Functions&amp;url=https%3A%2F%2Fexpress-serverless.io%2Fresources%2Fhello-world-esp-vs-google-cloud-functions-example%2F" icon="fab fa-twitter" %}}Tweet{{% /button %}}
+{{% button href="https://twitter.com/intent/tweet/?text=ESP%20vs%20Google%20Cloud%20Functions&amp;url=https%3A%2F%2Fexpress-serverless.io%2Fresource%2Fhello-world-esp-vs-google-cloud-functions-example%2F" icon="fab fa-twitter" %}}Tweet{{% /button %}}
 
-{{% button href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fexpress-serverless.io%2Fresources%2Fhello-world-esp-vs-google-cloud-functions-example%2F&amp;title=ESP%20vs%20Google%20Cloud%20Functions&amp;summary=ESP%20vs%20Google%20Cloud%20Functions&amp;source=https%3A%2F%2Fexpress-serverless.io%2Fresources%2Fhello-world-esp-vs-google-cloud-functions-example%2F" icon="fab fa-linkedin" %}}Link{{% /button %}}
+{{% button href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fexpress-serverless.io%2Fresource%2Fhello-world-esp-vs-google-cloud-functions-example%2F&amp;title=ESP%20vs%20Google%20Cloud%20Functions&amp;summary=ESP%20vs%20Google%20Cloud%20Functions&amp;source=https%3A%2F%2Fexpress-serverless.io%2Fresource%2Fhello-world-esp-vs-google-cloud-functions-example%2F" icon="fab fa-linkedin" %}}Link{{% /button %}}
 
 
 

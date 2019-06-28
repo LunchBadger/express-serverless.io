@@ -76,7 +76,7 @@ In our analysis, we&#8217;ll compare the Amazon (AWS) API Gateway and Express Ga
 </div>
 
 <h1 style="text-align: center;">
-  <a href="/resources/pdf-guides/ "  class="btn button center cta">Download the detailed guide here</a>
+  <a href="/resource/pdf-guides/ "  class="btn button center cta">Download the detailed guide here</a>
 </h1>
 
 <div class="spaced" style="padding-top:15px; clear:both;" >
@@ -89,6 +89,6 @@ Disclaimer: No actual HoneyBadgers were hurt during this comparison. Additionall
 
 
  [1]: http://www.express-gateway.io?utm_source=Comparison_LP_AWS&utm_medium=blog&utm_campaign=2018-10-comparisons&utm_content=link
- [2]: /resources/pdf-guides/
+ [2]: /resource/pdf-guides/
  [3]: http://www.twitter.com/lunchbadger
  [4]: https://twitter.com/express_gateway

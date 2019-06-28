@@ -6,7 +6,7 @@ weight: 1
 author: Al Tsang
 type: post
 date: 2018-11-29T01:08:42+00:00
-url: /resources/microservices-platform-comparison-express-serverless-on-aws-vs-lambda/
+url: /resource/microservices-platform-comparison-express-serverless-on-aws-vs-lambda/
 image: /uploads/2018/11/Copy-of-Copy-of-API-Management-32F3-1.png
 um_content_restriction:
   - 'a:8:{s:26:"_um_custom_access_settings";s:1:"0";s:14:"_um_accessible";s:1:"0";s:19:"_um_noaccess_action";s:1:"0";s:30:"_um_restrict_by_custom_message";s:1:"0";s:27:"_um_restrict_custom_message";s:0:"";s:19:"_um_access_redirect";s:1:"0";s:23:"_um_access_redirect_url";s:0:"";s:28:"_um_access_hide_from_queries";s:1:"0";}'
@@ -112,7 +112,7 @@ _<span style="font-weight: 400;">That’s exactly the case for AWS Lambda and Am
 &nbsp;
 
 We&#8217;ve written a complete guide towards understanding the major differences and similarities between Express Serverless Platform on AWS versus AWS Lambda across multiple dimensions, including features and pricing, which is available for download, 
-from our <a href="/resources/pdf-guides/" target="_blank">Resources page.</a>
+from our <a href="/resource/pdf-guides/" target="_blank">Resources page.</a>
 
 &nbsp;
 
@@ -161,7 +161,7 @@ This short video shows you exactly how Express Serverless Platform runs on AWS.
 
 &nbsp;
 
-Hope you found this post beneficial. Don&#8217;t forget to download the <a href="/resources/pdf-guides/" target="_blank">AWS Lambda versus Express Serverless Platform on AWS comparison guide.</a> 
+Hope you found this post beneficial. Don&#8217;t forget to download the <a href="/resource/pdf-guides/" target="_blank">AWS Lambda versus Express Serverless Platform on AWS comparison guide.</a> 
 
 
 &nbsp;
@@ -171,11 +171,11 @@ And if you&#8217;re interested in more of these topics, join the live discussion
 &nbsp;
 &nbsp;
 
-{{% button href="https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fexpress-serverless.io%2Fresources%2Fmicroservices-platform-comparison-express-serverless-on-aws-vs-lambda%2F" icon="fab fa-facebook" %}}Share{{% /button %}}
+{{% button href="https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fexpress-serverless.io%2Fresource%2Fmicroservices-platform-comparison-express-serverless-on-aws-vs-lambda%2F" icon="fab fa-facebook" %}}Share{{% /button %}}
 
-{{% button href="https://twitter.com/intent/tweet/?text=ESP%20vs%20AWS%20Lambda&amp;url=https%3A%2F%2Fexpress-serverless.io%2Fresources%2Fmicroservices-platform-comparison-express-serverless-on-aws-vs-lambda%2F" icon="fab fa-twitter" %}}Tweet{{% /button %}}
+{{% button href="https://twitter.com/intent/tweet/?text=ESP%20vs%20AWS%20Lambda&amp;url=https%3A%2F%2Fexpress-serverless.io%2Fresource%2Fmicroservices-platform-comparison-express-serverless-on-aws-vs-lambda%2F" icon="fab fa-twitter" %}}Tweet{{% /button %}}
 
-{{% button href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fexpress-serverless.io%2Fresources%2Fmicroservices-platform-comparison-express-serverless-on-aws-vs-lambda%2F&amp;title=ESP%20vs%20AWS%20Lambda&amp;summary=ESP%20vs%20AWS%20Lambda&amp;source=https%3A%2F%2Fexpress-serverless.io%2Fresources%2Fmicroservices-platform-comparison-express-serverless-on-aws-vs-lambda%2F" icon="fab fa-linkedin" %}}Link{{% /button %}}
+{{% button href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fexpress-serverless.io%2Fresource%2Fmicroservices-platform-comparison-express-serverless-on-aws-vs-lambda%2F&amp;title=ESP%20vs%20AWS%20Lambda&amp;summary=ESP%20vs%20AWS%20Lambda&amp;source=https%3A%2F%2Fexpress-serverless.io%2Fresource%2Fmicroservices-platform-comparison-express-serverless-on-aws-vs-lambda%2F" icon="fab fa-linkedin" %}}Link{{% /button %}}
 
 
 
