@@ -1,5 +1,5 @@
 ---
-title: Resource
+title: resource
 menuTitle: Resources
 chapter: true
 weight: 13
