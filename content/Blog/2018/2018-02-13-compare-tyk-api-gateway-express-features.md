@@ -33,7 +33,7 @@ In this easy-to-follow format, we&#8217;re going to compare [**Tyk API Gateway*
 
 &nbsp;
 
-<a href="/resources/pdf-guides/" target="_blank"><em>Skip ahead to our resources page to download it.</em></a>
+<a href="/Resources/pdf-guides/" target="_blank"><em>Skip ahead to our resources page to download it.</em></a>
 
 &nbsp;
 
@@ -81,7 +81,7 @@ Now it&#8217;s time to take a look at what a little open source can do for your 
 </div>
 
 <h1 style="text-align: center;">
-  <a href="/resources/pdf-guides/"  class="btn button center cta">Get The Deep Dive</a>
+  <a href="/Resources/pdf-guides/"  class="btn button center cta">Get The Deep Dive</a>
 </h1>
 
 <div class="spaced" style="padding-top:15px; clear:both;" >

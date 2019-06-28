@@ -1,6 +1,7 @@
 ---
 title: "Resources"
 chapter: true
+url: /Resources
 weight: 13
 description: Download Express Serverless Platform's pdf guides on serverless platform comparisons and use-cases here.
 date: 2018-05-21T18:23:50+03:00
