@@ -1,6 +1,7 @@
 ---
 title: 'API Gateways Comparison: Features & Pricing of Kong vs. Express Gateway'
 author: Al Tsang
+description: Complete API Gateway comparison analysis between Kong API Gateway and Express Gateway on pricing, features and usability. View and download this handy guide.
 menuTitle: Kong vs EG
 type: post
 date: 2018-01-30T14:10:49+00:00

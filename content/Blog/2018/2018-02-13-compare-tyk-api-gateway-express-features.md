@@ -1,5 +1,6 @@
 ---
 title: API Gateways Comparison – Features and Pricing of Tyk API Gateway vs. Express Gateway
+description: Compare Tyk Api Gateway vs Express Gateway on pricing, features and usability. We broke down our analysis in this handy comparison guide, free to download.
 menuTitle: Tyk vs EG
 author: Al Tsang
 type: post

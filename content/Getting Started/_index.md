@@ -10,11 +10,10 @@ draft: false
 
 ### Instructions
 
-Detailed installation and getting instructions for both Express Serverless Platform frontend and backend are available from the 
-respective Github repo's <strong>README</strong> files.
+Detailed installation and getting instructions for both Express Serverless Platform frontend and backend are available here.
 
 &nbsp;
 
-#### <a href="https://github.com/LunchBadger/lunchbadger-ui/blob/master/README.md" target="_blank">Express Serverless Front End Installation</a>
 
-#### <a href="https://github.com/LunchBadger/helm-charts/blob/master/README.md" target="_blank">Express Serverless Back End Installation</a>
+#### <a href="/getting-started/front-end" target="_blank">Express Serverless Front End Installation</a>
+#### <a href="/getting-started/back-end" target="_blank">Express Serverless Back End Installation</a>

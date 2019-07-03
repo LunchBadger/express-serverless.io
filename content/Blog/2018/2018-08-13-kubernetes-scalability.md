@@ -1,6 +1,7 @@
 ---
 title: Leveraging Kubernetes For Microservices Based Cloud Strategy
 menuTitle: Leveraging Kubernetes
+description: Discover how easy it is to use Kubernetes to scale. Get started with the Express Serverless platform for auto deployment in a Kubernetes Runtime.
 author: Al Tsang
 type: post
 date: 2018-08-13T19:26:15+00:00

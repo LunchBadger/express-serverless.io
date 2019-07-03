@@ -1,6 +1,7 @@
 ---
 title: 'API Management Reimagined: Authentication Authorization Audit'
 menuTitle: API Management Reimagined
+description: For Developers and DevOps engineers, an open source API Gateway and Serverless platform make the three As of API management easy.
 author: Al Tsang
 type: post
 date: 2018-10-16T21:06:48+00:00

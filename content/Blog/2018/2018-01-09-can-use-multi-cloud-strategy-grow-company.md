@@ -1,6 +1,7 @@
 ---
 title: How you can use a Multi-cloud Strategy to Grow your Company
 menuTitle: Multi-cloud Strategy
+description: Hybrid and multi-cloud are not the same thing. Understand the real meanings here, and find out how a multi cloud strategy can help your company grow.
 author: Al Tsang
 type: post
 date: 2018-01-09T15:42:13+00:00

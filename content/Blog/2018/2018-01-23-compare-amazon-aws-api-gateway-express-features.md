@@ -1,6 +1,7 @@
 ---
 title: API Gateway Comparison – Features and Pricing of Amazon AWS API Gateway and Express Gateway
 author: Al Tsang
+description: Compare Amazon AWS API Gateway on pricing, features and usability versus Express Gateway. Get the detailed analysis in this handy comparison guide.
 menuTitle: AWS API Gateway vs EG
 type: post
 date: 2018-01-23T13:30:58+00:00

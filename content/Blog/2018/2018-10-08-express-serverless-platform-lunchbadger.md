@@ -1,6 +1,7 @@
 ---
 title: LunchBadger Platform is now Express Serverless Platform
 menuTitle: LunchBadger is now ESP
+description: LunchBadger releases the new Express Serverless Platform for developers, DevOps teams, API and Microserves experts driving impact in the enterprise.
 author: Al Tsang
 type: post
 date: 2018-10-09T00:12:30+00:00
