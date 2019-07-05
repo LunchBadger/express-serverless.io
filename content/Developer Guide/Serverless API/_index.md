@@ -1,5 +1,5 @@
 ---
-title: "Developer Guide - Serverless API"
+title: "Developer Guide"
 menuTitle: Back End - Serverless API
 description: Detailed developer guide for Express Serverless Platform back end.
 chapter: false
@@ -8,15 +8,7 @@ date: 2018-05-21T18:23:50+03:00
 draft: false
 ---
 
-### Instructions
+# serverless-api
+API wrapper over serverless CLI with kubeless plugin
 
-<script src="http://gist-it.appspot.com/http://github.com/LunchBadger/serverless-api/blob/master/README.md"></script>
-
-&nbsp;
-
-The above instructions are also available from the <a href="https://github.com/LunchBadger/serverless-api/blob/master/README.md" target="_blank">LunchBadger/serverless-api Github repo <strong>README</strong></a> file.
-
-
-
-
-
+almost 1-1 mapping to serverless CLI (not completely, only small part that required by LunchBadger)

@@ -1,5 +1,5 @@
 ---
-title: "Developer Guide - Kube Watcher"
+title: "Developer Guide"
 menuTitle: Back End - Kube Watcher
 description: Detailed developer guide for Express Serverless Platform back end.
 chapter: false
@@ -8,15 +8,30 @@ date: 2018-05-21T18:23:50+03:00
 draft: false
 ---
 
-### Instructions
+# kube-watcher
+Watch Kubernetes resources with a resilient RxJS Observable client.
+It is used buy UI to render deployemnt process of Functions and Gateways
 
-<script src="http://gist-it.appspot.com/http://github.com/LunchBadger/kube-watcher/blob/master/README.md"></script>
+implemented as https://github.com/LunchBadger/kube-watcher/blob/master/index.js
 
-&nbsp;
+Let say you have `demo` user with ` dev` env 
+access http://localhost:7788/channels/demo
 
-The above instructions are also available from the <a href="https://github.com/LunchBadger/kube-watcher/blob/master/README.md" target="_blank">LunchBadger/kube-watcher Github repo <strong>README</strong></a> file.
+you will get a stringified JSON 
+{dev:  { gateway:{ gw-name: status}, workspace:{ws-name:status}}
 
-
-
-
-
+```js
+{
+    "dev": {
+        "gateway": {
+            "gateway-demo-dev-gateway-696bb497cd-s7b6p": {
+                "status": { running: true} 
+            }
+        },
+        "workspace": {
+            "workspace-demo-dev-87c8978b-6bmnw": {
+                "status": { running: true} 
+        }
+    }
+}
+```

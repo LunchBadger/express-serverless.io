@@ -1,5 +1,5 @@
 ---
-title: "Developer Guide - Graphql API"
+title: "Developer Guide"
 menuTitle: Back End - Graphql API
 description: Detailed developer guide for Express Serverless Platform back end.
 chapter: false
@@ -8,15 +8,22 @@ date: 2018-05-21T18:23:50+03:00
 draft: false
 ---
 
-### Instructions
+# graphql-api
 
-<script src="http://gist-it.appspot.com/http://github.com/LunchBadger/graphql-api/blob/master/README.md"></script>
+## Build image
 
-&nbsp;
+### Login to AWS
 
-The above instructions are also available from the <a href="https://github.com/LunchBadger/graphql-api/blob/master/README.md" target="_blank">LunchBadger/graphql-api Github repo <strong>README</strong></a> file.
+`aws ecr get-login --no-include-email --region us-west-2 | sh -`
 
+### Helper function to make build and push easier (create it once)
 
+```shell
+alias lbdbgql='function _lbdbgql(){ tag=$1; shift; docker build -t graphql . && docker tag graphql:latest 410240865662.dkr.ecr.us-west-2.amazonaws.com/graphql:$tag && docker push 410240865662.dkr.ecr.us-west-2.amazonaws.com/graphql:$tag $*; };_lbdbgql'
 
+```
 
+### Build and push
+
+`lbdbgql 0.1.1`
 
