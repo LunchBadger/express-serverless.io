@@ -6,6 +6,12 @@ description: Express Serverless Platform guide for developers.
 date: 2018-05-21T18:23:50+03:00
 draft: false
 ---
+### Overview
+<figure class="post-image">
+
+<img class="aligncenter" src="/images/lb-graph-final.png" alt="Express Serverless Platform Architecture" width="631" height="313"></figure>
+
+&nbsp;
 
 Access the following instructions, repos and how-to's on Github for the full details on Express Severless Platform.
 

@@ -11,4 +11,3 @@ draft: false
 
 {{%attachments style="blue" title="Serverless Plaform Comparison Guides" pattern= "Comparison.*"/%}}
 
-{{%attachments style="green" title="API Gateway Comparison Guides" pattern= ".*API.*"/%}}
