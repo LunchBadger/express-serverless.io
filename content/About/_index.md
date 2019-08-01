@@ -17,6 +17,12 @@ Express Serverless Platform enables developers to quickly write serverless funct
 
 Express Serverless Platform is deployed on a Kubernetes runtime and ships with its own management utilities, making it easy to manage and scale on any private cloud, public cloud, or multi-cloud hybrid.
 
+<figure class="post-image">
+
+<img class="aligncenter" src="/images/lb-graph-final.png" alt="Express Serverless Platform Architecture" width="631" height="313"></figure>
+
+&nbsp;
+
 ## Why would I want to use Express Serverless Platform?
 **TIME.**
 
