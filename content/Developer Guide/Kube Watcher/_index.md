@@ -9,6 +9,9 @@ draft: false
 ---
 
 # kube-watcher
+
+{{% button href="https://github.com/LunchBadger/kube-watcher" icon="fab fa-github-square" %}}Kube-watcher GitHub Repo{{% /button %}}
+
 Watch Kubernetes resources with a resilient RxJS Observable client.
 It is used buy UI to render deployemnt process of Functions and Gateways
 

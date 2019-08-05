@@ -7,8 +7,10 @@ weight: 3
 date: 2018-05-21T18:23:50+03:00
 draft: false
 ---
-## Instructions
+
 # Configstore
+
+{{% button href="https://github.com/LunchBadger/configstore" icon="fab fa-github-square" %}}Configstore GitHub Repo{{% /button %}}
 
 The Configstore is a facade API built on Express for all the main metadata and configuration information for all LunchBadger Users and their projects.
 

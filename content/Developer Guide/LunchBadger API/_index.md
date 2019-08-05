@@ -10,6 +10,8 @@ draft: false
 
 ## LunchBadger API
 
+{{% button href="https://github.com/LunchBadger/workspace" icon="fab fa-github-square" %}}LunchBadger GitHub Repo{{% /button %}}
+
 This app can be used as interal API for LunchBadger container application (https://github.com/LunchBadger/lunchbadger-container)
 
 Uses fork of loopback-workspace to operate the underlying loopback project 

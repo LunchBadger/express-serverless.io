@@ -10,6 +10,8 @@ draft: false
 
 # LunchBadger Helm Chart Deployment
 
+{{% button href="https://github.com/LunchBadger/helm-charts" icon="fab fa-github-square" %}}Helm Charts GitHub Repo{{% /button %}}
+
 ## Local Deployment Prerequisites
 - Minikube
   - 2 GB, 4 CPU VM configuration recommended, i.e. `minikube start --cpus 4 --memory 4096`
