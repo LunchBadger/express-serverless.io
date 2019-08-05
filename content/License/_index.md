@@ -1,7 +1,8 @@
 ---
 title: License
-description: Expres Serverless PLatform open source license
-weight: 16
+menuTitle: License
+description: Express Serverless PLatform open source license
+weight: 17
 ---
 
 ## Express Serverless Platform is licensed under APACHE LICENSE 2.0

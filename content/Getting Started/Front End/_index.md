@@ -10,6 +10,8 @@ draft: false
 
 # LunchBadger UI
 
+{{% button href="https://github.com/LunchBadger/lunchbadger-ui" icon="fab fa-github-square" %}}LunchBadger UI GitHub Repo{{% /button %}}
+
 ## Quick start
 
     # Run dev server

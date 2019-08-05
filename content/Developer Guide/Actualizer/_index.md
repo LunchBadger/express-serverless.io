@@ -10,6 +10,8 @@ draft: false
 
 # Actualizer
 
+{{% button href="https://github.com/LunchBadger/actualizer" icon="fab fa-github-square" %}}Actualizer GitHub Repo{{% /button %}}
+
 The Actualizer is responsible for making sure that the intended configuration of what is deployed within LunchBadger is actually deployed within Kubernetes as its intended state.
 
 The Actualizer works hand-in-hand with the Configstore by periodically checking for changes in the configuration metadata and deploying Kubernetes pods on behalf of all Users.
