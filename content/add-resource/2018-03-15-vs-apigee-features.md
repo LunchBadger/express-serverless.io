@@ -266,7 +266,7 @@ is known for giving mysterious HTTP 401 errors with no further information</a>, 
 	&nbsp;
 	
   </p>
-  We’ve done up a detailed comparison analysis on features, pricing and more between Express Serverless Platform and Apigee Edge, which is available for download from our [Resources](add-resource/pdf-guides/page/) page.
+  We’ve done up a detailed comparison analysis on features, pricing and more between Express Serverless Platform and Apigee Edge, which is available for download from our [Resources](/add-resource/pdf-guides/page/) page.
   
   <p>
     Additionally, if you&#8217;re interested in more of these topics, join the live discussion on twitter <strong><a href="http://www.twitter.com/lunchbadger">@lunchbadger</a></strong> or <strong><a href="https://twitter.com/express_gateway">@express_gateway.</a></strong>
