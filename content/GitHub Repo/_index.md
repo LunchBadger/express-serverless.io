@@ -1,8 +1,9 @@
 ---
 title: GitHub Repo
 menuTitle: GitHub Repo
+pre: "<i class='fab fa-github'></i> "
 description: Express Serverless PLatform GitHub repos
-weight: 16
+weight: 18
 ---
 
 ## Express Serverless Platform GitHub Repo
