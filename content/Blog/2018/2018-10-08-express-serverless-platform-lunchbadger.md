@@ -65,7 +65,7 @@ Express Serverless Platform is the only serverless platform to allow developers 
 
 ## Flexibility of Open Source With The Power of a Single Visual Canvas
 
-Express Serverless Platform provides a serverless computing experience by integrating all aspects of the Software Development Lifecycle  holistically as one seamless experience powered by our visual interface &#8211; the [Canvas][2]. Built with a foundation of best practices, your entire team can visualize your APIs and Microservices without diving into the complex world of infrastructure.
+Express Serverless Platform provides a serverless computing experience by integrating all aspects of the Software Development Lifecycle  holistically as one seamless experience powered by our visual interface &#8211; the [Canvas](/user-guide/canvas/). Built with a foundation of best practices, your entire team can visualize your APIs and Microservices without diving into the complex world of infrastructure.
 
 We&#8217;ve included key pieces of developer trusted open source technology.
 
@@ -110,7 +110,6 @@ If you&#8217;re interested in giving Express Serverless Platform a try, head ove
 
 
  [1]: https://www.lunchbadger.com/express-serverless-platform/?utm_source=blog_announcement&utm_medium=blog&utm_campaign=2018-08-trial-launch&utm_content=link
- [2]: http://docs.lunchbadger.com/basics/canvas/
  [3]: https://express-gateway.io
  [4]: http://kubernetes.io
  [5]: https://loopback.io

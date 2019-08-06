@@ -21,7 +21,7 @@ Integration entities include:
 * [Connectors](/user-guide/entity-palette/connectors) - let's you connect to data sources and existing services so that you can take advantage of them in a microservice built with a model
 
 {{% notice tip %}}
-[Model](/user-guide/models) entities can be connected to data sources and services through a Connector.
+[Model](/user-guide/entity-palette/models) entities can be connected to data sources and services through a Connector.
 {{% /notice %}}
 
 ## Microservice Composition Entities

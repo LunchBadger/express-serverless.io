@@ -7,7 +7,7 @@ draft: false
 
 To create a Model click on the model icon on the entity palette: {{< figure src="/images/icon_model_dark.svg" style="float: right" height="50" width="50" >}}
 
-The Model Entity is a graphical representation of a [LoopBack Model](https://loopback.io/doc/en/lb3/Defining-models.html).  Models can have properties you'd like to expose from data sources and services through [Connectors](/user-guide/entity-palette-connectors).
+The Model Entity is a graphical representation of a [LoopBack Model](https://loopback.io/doc/en/lb3/Defining-models.html).  Models can have properties you'd like to expose from data sources and services through [Connectors](/user-guide/entity-palette/connectors).
 
 {{% notice info %}}
 If you're familiar with the [Model-View-Controller pattern](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller), Models in Express Serverless Platform are exactly the `M` in `MVC`. For folks who are more backend, a model is very much like a [data access object](https://en.wikipedia.org/wiki/Data_access_object).
@@ -16,7 +16,7 @@ If you're familiar with the [Model-View-Controller pattern](https://en.wikipedia
 All Models are Node.js JavaScript functions. Models have the following basic built in functionality:
 
 * properties
-* read and or write data through [Connectors](/user-guide/connectors).
+* read and or write data through [Connectors](/user-guide/entity-palette/connectors).
 * scaffold a REST representation dynamically based on its definition
 
 ## Quick Edit a Model

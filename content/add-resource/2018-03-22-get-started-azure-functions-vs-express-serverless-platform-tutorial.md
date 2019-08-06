@@ -275,7 +275,7 @@ Note that, by default, Azure currently uses Node.js v6.11.2. You can <a href="h
 </p>
 
 <p>
-  We&#8217;ve written a complete guide towards understanding the major differences and similarities between Express Serverless Platform on Azure versus Azure Functions across multiple dimensions, including features and pricing, which is available for download from our <a href="/resource/pdf-guides/" target="_blank">Resources page.</a>
+  We&#8217;ve written a complete guide towards understanding the major differences and similarities between Express Serverless Platform on Azure versus Azure Functions across multiple dimensions, including features and pricing, which is available for download from our <a href="add-resource/pdf-guides/page/" target="_blank">Resources page.</a>
 
 </p>
 
@@ -289,11 +289,11 @@ Note that, by default, Azure currently uses Node.js v6.11.2. You can <a href="h
 &nbsp;
 &nbsp;
 
-{{% button href="https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fexpress-serverless.io%2Fresource%2Fget-started-azure-functions-vs-express-serverless-platform-tutorial%2F" icon="fab fa-facebook" %}}Share{{% /button %}}
+{{% button href="https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fexpress-serverless.io%2Fadd-resource%2Fget-started-azure-functions-vs-express-serverless-platform-tutorial%2F" icon="fab fa-facebook" %}}Share{{% /button %}}
 
-{{% button href="https://twitter.com/intent/tweet/?text=ESP%20vs%20Azure%20Functions&amp;url=https%3A%2F%2Fexpress-serverless.io%2Fresource%2Fget-started-azure-functions-vs-express-serverless-platform-tutorial%2F" icon="fab fa-twitter" %}}Tweet{{% /button %}}
+{{% button href="https://twitter.com/intent/tweet/?text=ESP%20vs%20Azure%20Functions&amp;url=https%3A%2F%2Fexpress-serverless.io%2Fadd-resource%2Fget-started-azure-functions-vs-express-serverless-platform-tutorial%2F" icon="fab fa-twitter" %}}Tweet{{% /button %}}
 
-{{% button href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fexpress-serverless.io%2Fresource%2Fget-started-azure-functions-vs-express-serverless-platform-tutorial%2F&amp;title=ESP%20vs%20Azure%20Functions&amp;summary=ESP%20vs%20Azure%20Functions&amp;source=https%3A%2F%2Fexpress-serverless.io%2Fresource%2Fget-started-azure-functions-vs-express-serverless-platform-tutorial%2F" icon="fab fa-linkedin" %}}Link{{% /button %}}
+{{% button href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fexpress-serverless.io%2Fadd-resource%2Fget-started-azure-functions-vs-express-serverless-platform-tutorial%2F&amp;title=ESP%20vs%20Azure%20Functions&amp;summary=ESP%20vs%20Azure%20Functions&amp;source=https%3A%2F%2Fexpress-serverless.io%2Fadd-resource%2Fget-started-azure-functions-vs-express-serverless-platform-tutorial%2F" icon="fab fa-linkedin" %}}Link{{% /button %}}
 
 
 

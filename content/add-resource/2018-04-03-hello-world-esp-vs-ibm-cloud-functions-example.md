@@ -194,7 +194,7 @@ The combination of Express Serverless Platform and Express Gateway is a great al
 
 &nbsp;
 
-We&#8217;ve done up a detailed comparison analysis on features, pricing and more between Express Serverless Platform running on IBM compared to IBM Cloud Functions, which is available for download from our <a href="/resource/pdf-guides/" target="_blank">Resources page.</a>
+We&#8217;ve done up a detailed comparison analysis on features, pricing and more between Express Serverless Platform running on IBM compared to IBM Cloud Functions, which is available for download from our <a href="add-resource/pdf-guides/page/" target="_blank">Resources page.</a>
 
 &nbsp;
 
@@ -203,11 +203,11 @@ Additionally, if you&#8217;re interested in more of these topics, join the live 
 &nbsp;
 &nbsp;
 
-{{% button href="https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fexpress-serverless.io%2Fresource%2Fhello-world-esp-vs-ibm-cloud-functions-example%2F" icon="fab fa-facebook" %}}Share{{% /button %}}
+{{% button href="https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fexpress-serverless.io%2Fadd-resource%2Fhello-world-esp-vs-ibm-cloud-functions-example%2F" icon="fab fa-facebook" %}}Share{{% /button %}}
 
-{{% button href="https://twitter.com/intent/tweet/?text=ESP%20vs%20IBM%20Cloud%20Functions&amp;url=https%3A%2F%2Fexpress-serverless.io%2Fresource%2Fhello-world-esp-vs-ibm-cloud-functions-example%2F" icon="fab fa-twitter" %}}Tweet{{% /button %}}
+{{% button href="https://twitter.com/intent/tweet/?text=ESP%20vs%20IBM%20Cloud%20Functions&amp;url=https%3A%2F%2Fexpress-serverless.io%2Fadd-resource%2Fhello-world-esp-vs-ibm-cloud-functions-example%2F" icon="fab fa-twitter" %}}Tweet{{% /button %}}
 
-{{% button href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fexpress-serverless.io%2Fresource%2Fhello-world-esp-vs-ibm-cloud-functions-example%2F&amp;title=ESP%20vs%20IBM%20Cloud%20Functions&amp;summary=ESP%20vs%20IBM%20Cloud%20Functions&amp;source=https%3A%2F%2Fexpress-serverless.io%2Fresource%2Fhello-world-esp-vs-ibm-cloud-functions-example%2F" icon="fab fa-linkedin" %}}Link{{% /button %}}
+{{% button href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fexpress-serverless.io%2Fadd-resource%2Fhello-world-esp-vs-ibm-cloud-functions-example%2F&amp;title=ESP%20vs%20IBM%20Cloud%20Functions&amp;summary=ESP%20vs%20IBM%20Cloud%20Functions&amp;source=https%3A%2F%2Fexpress-serverless.io%2Fadd-resource%2Fhello-world-esp-vs-ibm-cloud-functions-example%2F" icon="fab fa-linkedin" %}}Link{{% /button %}}
 
 
 
