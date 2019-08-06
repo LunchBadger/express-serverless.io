@@ -194,7 +194,7 @@ The combination of Express Serverless Platform and Express Gateway is a great al
 
 &nbsp;
 
-We&#8217;ve done up a detailed comparison analysis on features, pricing and more between Express Serverless Platform running on IBM compared to IBM Cloud Functions, which is available for download from our <a href="add-resource/pdf-guides/page/" target="_blank">Resources page.</a>
+We&#8217;ve done up a detailed comparison analysis on features, pricing and more between Express Serverless Platform running on IBM compared to IBM Cloud Functions, which is available for download from our [Resources](add-resource/pdf-guides/page/) page.
 
 &nbsp;
 

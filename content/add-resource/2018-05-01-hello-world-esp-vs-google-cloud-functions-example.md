@@ -175,7 +175,7 @@ Furthermore, Google Cloud Functions have slightly different syntax than <a href=
 
 &nbsp;
 
-We&#8217;ve done up a detailed comparison analysis on features, pricing and more between Express Serverless Platform running on GCP compared to Google Cloud Functions, which you may download from our <a href="add-resource/pdf-guides/page/" target="_blank">Resources page.</a>
+We&#8217;ve done up a detailed comparison analysis on features, pricing and more between Express Serverless Platform running on GCP compared to Google Cloud Functions, which you may download from our [Resources](add-resource/pdf-guides/page/) page.
 
 
 &nbsp;

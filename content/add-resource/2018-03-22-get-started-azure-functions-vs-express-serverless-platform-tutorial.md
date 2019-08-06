@@ -275,7 +275,7 @@ Note that, by default, Azure currently uses Node.js v6.11.2. You can <a href="h
 </p>
 
 <p>
-  We&#8217;ve written a complete guide towards understanding the major differences and similarities between Express Serverless Platform on Azure versus Azure Functions across multiple dimensions, including features and pricing, which is available for download from our <a href="add-resource/pdf-guides/page/" target="_blank">Resources page.</a>
+  We&#8217;ve written a complete guide towards understanding the major differences and similarities between Express Serverless Platform on Azure versus Azure Functions across multiple dimensions, including features and pricing, which is available for download from our [Resources](add-resource/pdf-guides/page/) page.
 
 </p>
 
