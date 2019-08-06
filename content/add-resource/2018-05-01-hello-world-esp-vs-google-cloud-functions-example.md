@@ -5,7 +5,7 @@ description: A detailed getting started tutorial guide between Express Serverles
 weight: 2
 type: post
 date: 2018-05-01T17:04:42+00:00
-url: /resource/hello-world-esp-vs-google-cloud-functions-example/
+url: /add-resource/hello-world-esp-vs-google-cloud-functions-example/
 image: /uploads/2018/05/Hello-World_-in-LunchBadger-vs-Google-Cloud-Functions.png
 um_content_restriction:
   - 'a:8:{s:26:"_um_custom_access_settings";s:1:"0";s:14:"_um_accessible";s:1:"0";s:19:"_um_noaccess_action";s:1:"0";s:30:"_um_restrict_by_custom_message";s:1:"0";s:27:"_um_restrict_custom_message";s:0:"";s:19:"_um_access_redirect";s:1:"0";s:23:"_um_access_redirect_url";s:0:"";s:28:"_um_access_hide_from_queries";s:1:"0";}'

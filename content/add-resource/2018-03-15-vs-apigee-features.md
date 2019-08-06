@@ -6,7 +6,7 @@ weight: 5
 author: Valeri Karpov
 type: post
 date: 2018-03-15T13:00:05+00:00
-url: /resource/vs-apigee-features/
+url: /add-resource/vs-apigee-features/
 image: /uploads/2018/03/4Multi-Cloud-Kubernetes-and-Our-New-Partnership-with-Joyent.png
 categories:
   - Technology
