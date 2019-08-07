@@ -212,7 +212,7 @@ export POD_NAME=$(kubectl get pods --namespace kube-system -l "app=monitoring-vi
 kubectl --namespace=kube-system port-forward $POD_NAME 3000
 ```
 
-Go to http://localhost:3000 to login.
+Go to http://<span></span>localhost:3000 to login.
 
 ## Kubernetes Dashboard
 
@@ -224,7 +224,7 @@ kubectl proxy
 
 2. Access URL
 
-http://localhost:8001/api/v1/namespaces/kube-system/services/kubernetes-dashboard:/proxy/
+http://<span></span>localhost:8001/api/v1/namespaces/kube-system/services/kubernetes-dashboard:/proxy/
 
 ## Additional Notes
 The current Helm chart is unfinished work, adjustments were being made to target

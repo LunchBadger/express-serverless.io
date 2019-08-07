@@ -48,9 +48,9 @@ a test to run, for example:
 - open `src/index.js` and increate version in `console.log` line
 - extend subarray below with new item, being PR name
 - commit and push those 2 files with `ver` or `version bump` comment
-- make sure, localhost still works fine, and check that staging http://staging.lunchbadger.com/ works fine (so new UI publish will not be a reason when it was already crashed)
+- make sure, localhost still works fine, and check that staging http://<span></span>staging.lunchbadger.com works fine (so new UI publish will not be a reason when it was already crashed)
 - in a separate terminal tab, execute `npm run staging` - this will build a new staging (dev) version
-- when finished, check http://staging.lunchbadger.com/ for your recent changes (when in doubts, check browser's console for version number and/or PR id's you put n steps 9-10), and reassign card for review and tests
+- when finished, check http://<span></span>staging.lunchbadger.com for your recent changes (when in doubts, check browser's console for version number and/or PR id's you put n steps 9-10), and reassign card for review and tests
 
 ## Deploy on prod
 - it means, some new card(s) was already tested on staging and PRs has been code reviewed and merged to `master`
@@ -62,9 +62,9 @@ a test to run, for example:
 - extend subarray below with new item(s), being id of newly merged PR(s)
 - commit and push those 2 files with `ver` or `version bump` comment
 - make sure, localhost still works fine
-- check that prod http://app.lunchbadger.com/ works fine (so new UI publish will not be a reason when it was already crashed)
+- check that prod http://<span></span>app.lunchbadger.com/ works fine (so new UI publish will not be a reason when it was already crashed)
 - in a separate terminal tab, execute `npm run deploy` - this will build a new prod version and upload files into cloud
-- when finished, do a smoke tests on prod http://app.lunchbadger.com/ that your newly published cards works fine (when in doubts, check browser's console for version number and/or PR id's you put n steps 6-7)
+- when finished, do a smoke tests on prod http://<span></span>app.lunchbadger.com/ that your newly published cards works fine (when in doubts, check browser's console for version number and/or PR id's you put n steps 6-7)
 
 ## Architecture
 

@@ -93,7 +93,7 @@ The public quadrant contains entities that are exposed and directly visible to a
 
 Example:
 
-> You have a domain and URL for exposing a REST API for cart as "http://www.petstore.com/api/v1/cart". This URL is exposed as an API Endpoint in the public quadrant.
+> You have a domain and URL for exposing a REST API for cart as http://<span></span>www.petstore.com/api/v1/cart. This URL is exposed as an API Endpoint in the public quadrant.
 
 ### Toolbar
 ![Toolbar](/images/toolbar.png)

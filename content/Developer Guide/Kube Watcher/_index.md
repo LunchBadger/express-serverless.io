@@ -18,7 +18,7 @@ It is used buy UI to render deployemnt process of Functions and Gateways
 implemented as https://github.com/LunchBadger/kube-watcher/blob/master/index.js
 
 Let say you have `demo` user with ` dev` env 
-access http://localhost:7788/channels/demo
+access http://<span></span>localhost:7788/channels/demo
 
 you will get a stringified JSON 
 {dev:  { gateway:{ gw-name: status}, workspace:{ws-name:status}}
